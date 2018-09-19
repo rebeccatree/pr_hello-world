@@ -1,0 +1,6 @@
+---
+title: "New Page"
+output: github_document
+---
+
+some super cool information
